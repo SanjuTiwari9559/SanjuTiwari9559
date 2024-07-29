@@ -3,7 +3,7 @@
 <img align="rigth" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1589193&label=Profile%20views&color=0e75b6&style=flat" alt="1589193" /> </p>
 
-- 🌱 I’m currently learning **React and dot Net MVC**
+- 🌱 I’m currently learning **Angular and Dot Net MVC**
 
 - 📫 How to reach me **Sanjutiwari9559@gmail.com**
 
